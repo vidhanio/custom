@@ -1,3 +1,3 @@
-[submodule "hexhud"]
-	path = hexhud
-	url = https://github.com/Hypnootize/hexhud
+[submodule "hypnotizehud"]
+	path = hypnotizehud
+	url = https://github.com/hypnootize/hypnotizehud
